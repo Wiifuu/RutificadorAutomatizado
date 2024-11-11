@@ -97,7 +97,7 @@ def menu():
     datos_ruts = {}
     ruts_no_encontrados = []
     with sync_playwright() as p:
-        browser = p.chromium.launch(executable_path='C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', headless=True)
+        browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.route("**/*", bloquear_anuncios)
         while True:
