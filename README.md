@@ -28,3 +28,8 @@ Esta software esta pensando para las personas que necesitan datos especificos y 
   - Luego necesitamos instalar en la misma terminal:
         
         playwright install
+
+# Tener en cuenta
+- NO ABUSAR la cantidad de consultas que se hacen, puede generar Bloqueos de IP temporales .
+- RECOMIENDO hacer consultas de 50 en 50 datos para no ser bloqueado por IP temporalmente.
+- El USO de VPN o SERVIDOR DNS puede generar que el código NO FUNCIONE, para que desactiven su VPN/ServidorDNS (al tener un IP de otro país)
