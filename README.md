@@ -23,7 +23,7 @@ Esta software esta pensando para las personas que necesitan datos especificos y 
 
 - 1.- Descargar el codigo de "Busqueda Automatizada.py" 
 - 2.- Instalar las siguientes dependencias en la terminal
-  - Se utilizarán: Playwright - Beautifulsoup4 - Pandas - Openpyl
+  - Se utilizarán: Playwright - Beautifulsoup4 - Pandas - Openpyxl
     
         pip install playwright beautifulsoup4 pandas openpyxl
   - Luego necesitamos instalar en la misma terminal:
