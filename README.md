@@ -4,9 +4,8 @@ Esta software esta pensando para las personas que necesitan datos especificos y 
 # IMPORTANTE
 
 - El presente proyecto no tiene relación alguna con el sitio:
-        
+  
           https://rutificador.net/
-
 - Ni tampoco con su base de datos, mucho menos con sus creadores/administradores.
 - El autor se desliga de cualquier responsabilidad derivada del uso del presente código.
 
